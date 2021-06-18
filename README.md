@@ -1,5 +1,7 @@
-# PostgreSQL for MySQL DBA's
 
+![Logo](https://raw.githubusercontent.com/DBjunkies/pg-for-mysq-dba/main/pg_for_mysql_dba-logo-785x350.jpg)
+
+    
 This repo is part of the tutorial *PostgreSQL for MySQL DBA's* available at https://www.youtube.com/channel/UCN41e11CmxvbTYKwrTNLG1w.
 
 This tutorial is focused on teaching PostgreSQL to professionals who are already experienced with databases, especially MySQL. A beginner may adapt the concepts easily but [s]he needs to know the basic concepts of a relational database. 
@@ -8,7 +10,7 @@ We start from the principle that relational databases share a lot of similar con
 
 The approach we take within this tutorial is to present an overview of the PostgreSQL architecture and operation in view of MySQL's. We will build a lab together to practice everything we discuss here. Note that we will mix lecture with hands-on work and you, the listener, have to apply those very same concepts we present here in practice in your lab before covering new ones. We will start with a simple and quick installation of PostgreSQL and then walk all the way to set up and maintain a stand by replica. By the end of this training you shall be able to have a good understanding of how PostgreSQL works, and feel confident enough to try it yourself elsewhere.
 
-Here are the main points covered in this tutorial:
+ - Here are the main points covered in this tutorial :
  - PostgreSQL architecture 
  - Installation and setup
  - Configuration files: parameters you need to know
