@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/DBjunkies/pg-for-mysq-dba/main/pg_for_mysql_dba-logo-785x350.jpg)
+![Logo](https://raw.githubusercontent.com/DBjunkies/pg-for-mysq-dba/25991211f3c9829ab9a321cec7f5d64fb864b14b/pg_for_mysql_dba-logo-785x350.png)
 
     
 This repo is part of the tutorial *PostgreSQL for MySQL DBA's* available at https://www.youtube.com/channel/UCN41e11CmxvbTYKwrTNLG1w.
